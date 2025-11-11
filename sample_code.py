@@ -15,7 +15,6 @@ def divide(a, b):
         raise ValueError("Cannot divide by zero!")
     return a / b
 
-print('My Test 123')
 if __name__ == "__main__":
     print("Addition of 2 and 3 is:", add(2, 3))
     print("Subtraction of 5 from 10 is:", subtract(10, 5))
