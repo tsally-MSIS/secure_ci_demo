@@ -1,3 +1,3 @@
 pytest==7.4.0
 requests==2.32.4
-urlid3==2.5.0
+urllib3==2.5.0
